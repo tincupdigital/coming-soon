@@ -1,0 +1,25 @@
+body {
+  background-color: #222;
+  padding-top: 50px;
+}
+
+.main {
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto 30px;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #DDD;
+}
+
+h1 {
+  font-family: 'Jaldi', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #DDD;
+  line-height: 0.875;
+  margin: 0;
+  font-size: 5em;
+}
